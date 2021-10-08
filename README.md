@@ -1,14 +1,9 @@
 # Shared Typescript Configs
 
-Example How to add it your repository (package.json):
-```json
-{
-  "dependencies": {
-    "@doo/ts-config": "https://github.com/doo/ts-config.git"
-  }
-}
+Add it your repository:
 ```
-
+npm install github:doo/ts-config --save-dev
+```
 
 Example how to use this package in your typescript project:
 ```json
