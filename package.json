@@ -1,0 +1,15 @@
+{
+  "name": "@doo/ts-config",
+  "version": "1.0.0",
+  "description": "Shared ESLint config for all typescript projects",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "tsconfig.json",
+    "react.json",
+    "react-native.json"
+  ]
+}
