@@ -17,7 +17,7 @@ Example how to use this package in your typescript project:
 Example how to use this package in your React apps:
 ```json
 {
-  "extends": "@doo/ts-config/react-native"
+  "extends": "@doo/ts-config/react"
 }
 ```
 
